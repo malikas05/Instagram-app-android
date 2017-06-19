@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Malik/.android/build-cache/c80e5431c62feb4a06fafd7e4b1da7f2ec8a3838/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/Malik/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_69fff0f19209c3475ff57e05f561edf4e1a01c24/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Malik/.android/build-cache/8c9c266ed410c4f3bd08d00a315da2101df49ec0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/Malik/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6466272ba7e4dc885e33e2c994c04452b2780963/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Malik/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7a4e517e63adf28e252e923c4e06f6e0656dfd9e">
+        <dex dex="/Users/Malik/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_cdfd5fc28c8728ff21a7d13df193e25e2a75afd3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Malik/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/Malik/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_b685921097d72247ca2a8bbed41a58ebe2755155/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Malik/.android/build-cache/f6879df3dbfc31cada2855ef377cd70cd2656792/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/Malik/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fafcb3077abbbf29b3d4bbed5b14db50ba17a758/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Malik/.android/build-cache/91ec38d35bc8b7018c4c1e8a8db392185b6fbfc7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
+        <dex dex="/Users/Malik/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1010681ef9b1b7f296a4bbb8b9f03bb0adfe7f7f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Malik/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.13.0/58a7d54b6a4f28be11f0cecec93097eddf473e6f/parse-android-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="/Users/Malik/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/parse-android-1.13.0_fc237709644e5c85e0014dddda133e1ff16eab0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Malik/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/Malik/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_4bbf3ee2016b7afdeac6a841e6a12d29a1e3290a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Malik/.android/build-cache/3adf327c0f99b161ba4b35f90d3803bf821a82f8/output/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/Malik/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_b2c773b04812f8783352506f9ec649e373ef024e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Malik/.android/build-cache/3adf327c0f99b161ba4b35f90d3803bf821a82f8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/Malik/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ff3944c388416460b274d6ff257a44c5a9123726/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Malik/.android/build-cache/7daa2b7413c8f22c1e19ff146115f83575f6a50e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/Malik/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5709a72e42d43d3697266f681eae29cf567bf786/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Malik/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/Malik/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b2f55f16c352dc88d7335cd84edd418ec599ee2a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Malik/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/Malik/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_b2a9e36ee3c4e6b703afa1eed3ac80c3c11f5f86/classes.dex" />
+    </item>
+
+</items>

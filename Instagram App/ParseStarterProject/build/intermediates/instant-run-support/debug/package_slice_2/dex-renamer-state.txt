@@ -1,0 +1,4 @@
+#Thu Jun 15 20:00:12 MSK 2017
+base.0=/Users/Malik/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2
+renamed.0=classes.dex
+file.0=/Users/Malik/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex
